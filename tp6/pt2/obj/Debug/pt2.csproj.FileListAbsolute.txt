@@ -1,0 +1,7 @@
+C:\Users\Nacho\source\repos\tp6\pt2\bin\Debug\pt2.exe.config
+C:\Users\Nacho\source\repos\tp6\pt2\bin\Debug\pt2.exe
+C:\Users\Nacho\source\repos\tp6\pt2\bin\Debug\pt2.pdb
+C:\Users\Nacho\source\repos\tp6\pt2\obj\Debug\pt2.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\tp6\pt2\obj\Debug\pt2.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\tp6\pt2\obj\Debug\pt2.exe
+C:\Users\Nacho\source\repos\tp6\pt2\obj\Debug\pt2.pdb
